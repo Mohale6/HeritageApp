@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Tseba Ka Lesotho</string>
+    <string name="image1" translatable="false">image1</string>
+    <string name="afriski_mountain_resort" translatable="false">Afriski Mountain Resort</string>
+    <string name="reflecting_the_diversity_of_lesotho_s_landscapes_afriski_offers_experiences_to_suit_just_about_everybody_no_matter_what_season_it_is_and_what_you_re_into" translatable="false">Reflecting the diversity of Lesotho’s landscapes, Afriski offers experiences to suit just about everybody, no matter what season it is and what you’re into.</string>
+    <string name="pic" translatable="false">pic</string>
+    <string name="todo">TODO</string>
+
+    <String-array name="heritages">
+        <item>Afriski</item>
+        <item>Kome Cave</item>
+        <item>Thaba Bosiu Cultural Village</item>
+        <item>Sehlabathebe National Park</item>
+        <item>Maliba Lodge</item>
+        <item>Maletsunyane Waterfall</item>
+        <item>Sani Mountain Lodge</item>
+    </String-array>
+
+    <String-array name="description">
+        <item>Reflecting the diversity of Lesotho’s landscapes, Afriski offers experiences to suit just about everybody, no matter what season it is and what you’re into.</item>
+        <item>The tall, deep rock overhangs that characterise the highlands of Lesotho have provided shelter to human since time immemorial.</item>
+        <item>Located 24km outside of the city of Maseru, Thaba Bosiu is a National Monument and Lesotho's foremost tourist destination…</item>
+        <item>Sehlabathebe National Park, the oldest nature reserve in the country, is remote and almost inaccessible but predictably peaceful and stunningly beautiful.</item>
+        <item>Malia Lodge offers a range of accommodation types including 5 Star Luxury and 3 Star self-catering.</item>
+        <item>Maletsunyane Falls is a 192-metre high waterfall in Southern African country Lesotho</item>
+        <item>Sani Mountain Lodge is situated on the border between South Africa and Lesotho, sitting 2874m above sea level.</item>
+    </String-array>
+</resources>
